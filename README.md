@@ -96,7 +96,7 @@ The dataset was split into training and test sets. The training set contains 703
   <tr>
     <td>Total Annotations (people)</td>
     <td align="center"><em>3,820</em></td>
-    <td align="center"><em>3,820</em></td>
+    <td align="center"><em>3,797</em></td>
     <td align="center"><em>3,820¹</em></td>
   </tr>
   <tr>
